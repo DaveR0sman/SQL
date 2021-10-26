@@ -1,0 +1,1 @@
+INSERT IN TO usuarios VALUES(NULL, "DanielRIver","dantioaa@gmail.com","essecreta","av centro 399, cdmx");
